@@ -1,0 +1,5 @@
+Open Max: 53.11
+Open Min: 34.00
+Range Max: 2.81
+Diff Max: 19.03
+Avg Volume: 89124.3
